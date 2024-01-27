@@ -49,4 +49,4 @@ if '__repo__' == '__helpful__':
 
 <!--Footer-->
 <hr>
-<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
+
