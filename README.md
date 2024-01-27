@@ -40,9 +40,10 @@ if '__repo__' == '__helpful__':
 ## 🛠️ **Languages & Tools:**
 
 <p><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-
+  
 
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
+
 
 <!-- Github Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kotharamya99&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
