@@ -4,7 +4,6 @@
   👨‍💻 I'm a Full-stack Software Engineer and a Technophile!
 
 
-
 ```python
 from life import Creativity
 
